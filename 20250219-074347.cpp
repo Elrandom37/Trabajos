@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
     double precioOriginal;
-    double descuento = 0.15; // 15% de descuento
+    double descuento = 0.15; 
 
     cout << "Ingrese el precio del artículo: ";
     cin >> precioOriginal;
