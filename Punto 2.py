@@ -4,5 +4,4 @@ def calcular_precio_final():
     precio_final = precio_original * (1 - descuento)
     print(f"El precio final después del descuento es: {precio_final:.2f}")
 
-# Llamada a la función
 calcular_precio_final()
